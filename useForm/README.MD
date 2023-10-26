@@ -8,6 +8,6 @@ name: '',
 age: '',
 email:''
 };
-const[formValues, handleInputChange, reset] = useForm(InitialForm);
+const[formValues, handleInputChange, reset] = useForm(initialForm);
 ```
 
